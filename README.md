@@ -1,6 +1,6 @@
 # Allure Example
 
-> Example of Allure Report usage with Newman, Yarn, CommonJS and TypeScript
+> Example of Allure Report usage with Newman, Yarn and CommonJS
 
 <!--<img src="https://allurereport.org/public/img/allure-report.svg" alt="Allure Report logo" style="float: right" />-->
 
